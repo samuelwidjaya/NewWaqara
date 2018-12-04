@@ -2,9 +2,9 @@
 $servername = "localhost";
 
 //production
-$username = "u4887161_samuel";
-$password = "muelcel722005";
-$dbname = "u4887161_waqara";
+$username = "root";
+$password = "QazPlm123@@";
+$dbname = "waqara_website";
 
 //local
 // $username = "root";
