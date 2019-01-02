@@ -32,6 +32,10 @@
             .owl-dots {
                 display: none;
             }
+
+            .main_title h2:before {
+                background: #35c47a;
+            }
         </style>
 
         <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -74,12 +78,12 @@
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav navbar-right">
-                            <li style="font-weight: 600;" class="active"><a href="#">BERANDA</a></li>
-                            <li style="font-weight: 600;"><a href="#tentang">TENTANG</a></li>
-                            <li style="font-weight: 600;"><a href="#fitur">FITUR</a></li>
-                            <li style="font-weight: 600;"><a href="#pendiri">PENDIRI</a></li>
-                            <li style="font-weight: 600;"><a href="#jual">JUAL DI WAQARA</a></li>
-                            <li style="font-weight: 600; display: none;"><a href="#jual"></a></li>
+                            <li style="font-weight: 400;" class="active"><a href="#" style="color: #404040;">BERANDA</a></li>
+                            <li style="font-weight: 400;"><a href="#tentang" style="color: #404040;">TENTANG</a></li>
+                            <li style="font-weight: 400;"><a href="#fitur" style="color: #404040;">FITUR</a></li>
+                            <li style="font-weight: 400;"><a href="#pendiri" style="color: #404040;">PENDIRI</a></li>
+                            <li style="font-weight: 400;"><a href="#jual" style="color: #404040;">PARTNER</a></li>
+                            <li style="font-weight: 400; display: none;"><a href="#jual"></a></li>
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     </nav>
@@ -91,9 +95,9 @@
         <!--================Slider Area =================-->
         <section>
             <div style="background: url('img/home-slider/slider-1.png') no-repeat scroll center center; height: 900px;">
-                <center><p style="font-weight: bold; padding-top: 45px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 37px; line-height: 43px;">SELANGKAH LEBIH DEKAT</p></center>
-                <center><p style="font-weight: bold; padding-top: 18px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 37px; line-height: 43px;">MEWUJUDKAN IMPIANMU</p></center>
-                <center><p style="font-weight: bold; padding-top: 18px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 37px; line-height: 63px;">MENGINJAKKAN KAKI DI TANAH SUCI</p></center>
+                <center><p style="font-weight: bold; padding-top: 75px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 30px; line-height: 55px;">SELANGKAH LEBIH DEKAT</p></center>
+                <center><p style="font-weight: bold; padding-top: 0px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 30px; line-height: 55px;">MEWUJUDKAN IMPIANMU</p></center>
+                <center><p style="font-weight: bold; padding-top: 0px; font-family: 'Montserrat', sans-serif; text-align: center; max-width: 900px; color: white; font-size: 30px; line-height: 55px;">MENGINJAKKAN KAKI DI TANAH SUCI</p></center>
                 
     <hr style="width: 70px;
     margin-bottom: 40px;
@@ -102,13 +106,13 @@
     color: #FFFFFF;
     background-color: #FFFFFF;">
     <div id="div_download_apps_desktop" style="text-align: center;">
-        <img style="height: 53px; margin-right: 20px;" src="img/app-store-button.png">
-        <img style="height: 53px;" src="img/play-store-button.png">
+        <img style="height: 40px; margin-right: 20px;" src="img/app-store-button.png">
+        <img style="height: 40px;" src="img/play-store-button.png">
     </div>
     <div id="div_download_apps_mobile" style="text-align: center; margin-top: -30px;">
-        <img style="height: 53px;" src="img/app-store-button.png">
+        <img style="height: 40px;" src="img/app-store-button.png">
         <br/><br/>
-        <img style="height: 53px;" src="img/play-store-button.png">
+        <img style="height: 40px;" src="img/play-store-button.png">
     </div>
             </div>
         </section>
@@ -118,28 +122,28 @@
         <section class="satisfaction_area" id="tentang">
             <div class="container">
                 <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400;">Tentang Waqara</h2>
-                    <p style="max-width: 900px; color: #595F5A; font-size: 17px; line-height: 28px;">Travel Providers Partners Waqara adalah hasil kurasi Tim Waqara dengan Bank Partners kami dimana travel provider di haruskan untuk melewati proses kurasi yang ketat dan menaati syarat dan ketentuan dari Waqara. Waqara juga mempunyai Pembiayaan Partners dimana umah bisa mengajukan pemohonan untuk pembiayaan perjalanan mereka</p>
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Mengapa Memilih Waqara</h2>
+                    <p style="max-width: 800px; color: #595F5A; font-size: 16px; line-height: 28px;">Travel Providers Partners Waqara adalah hasil kurasi Tim Waqara dengan Bank Partners kami dimana travel provider di haruskan untuk melewati proses kurasi yang ketat dan menaati syarat dan ketentuan dari Waqara. Waqara juga mempunyai Pembiayaan Partners dimana umah bisa mengajukan pemohonan untuk pembiayaan perjalanan mereka</p>
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
                             <img src="img/apps-mudah.png"><br>
-                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390;">Sistem Aplikasi yang</h4></a>
+                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390; font-size: 18px; font-weight: 600; padding: 30px 0px 2px 0px;">Sistem Aplikasi yang</h4></a>
                             <p style="color: #595F5A; font-size: 17px; line-height: 28px;">Mudah & Praktis</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
                             <img src="img/menjamin-pasti-berangkat.png"><br>
-                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390;">Menjamin Peserta Umroh</h4></a>
+                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390; font-size: 18px; font-weight: 600; padding: 30px 0px 2px 0px;">Menjamin Peserta Umroh</h4></a>
                             <p style="color: #595F5A; font-size: 17px; line-height: 28px;">Pasti Berangkat</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
-                            <img src="img/data-privasi-aman.png"><br>
-                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390;">Data Privasi Peserta</h4></a>
+                            <img src="img/Data-privasi-aman.png"><br>
+                            <a href="#tentang" style="cursor: auto;"><h4 style="color: #44B390; font-size: 18px; font-weight: 600; padding: 30px 0px 2px 0px;">Data Privasi Peserta</h4></a>
                             <p style="color: #595F5A; font-size: 17px; line-height: 28px;">Aman & Terpercaya</p>
                         </div>
                     </div>
@@ -169,27 +173,27 @@
             <div class="col-md-6">
                 <div class="right_choose_image" style="padding-top: 0;">
                     <div class="left_title">
-                        <h2 style="line-height: 47px; text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400;">Mengapa Memilih Kami</h2>
+                        <h2 style="line-height: 45px; text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400;">Mengapa Memilih Kami</h2>
                         <hr style="width: 70px;
     float: left;
     border: none;
     height: 2px;
-    color: #44B08A;
-    background-color: #44B08A;"><br /><br />
-                        <p style="color: #595F5A; font-size: 17px; line-height: 28px;">Misi Waqara adalah untuk membuat umroh menjadi mungkin bagi semua orang.</p>
+    color: #35C47A;
+    background-color: #35C47A;"><br /><br />
+                        <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Misi Waqara adalah untuk membuat umroh menjadi mungkin bagi semua orang.</p>
 
-                        <p style="color: #595F5A; font-size: 17px; line-height: 28px;">Untuk individu yang ingin bepergian umroh setidaknya sekali dalam seumur hidup mereka, Waqara adalah aplikasi paling aman dan bermanfaat untuk memotivasi tabungan umroh dan akhirnya berangkat tanpa rasa takut ditipu dan dijamin pasti keberangkatannya dengan pengalaman yang berkesan dan baik.</p>
+                        <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Untuk individu yang ingin bepergian umroh setidaknya sekali dalam seumur hidup mereka, Waqara adalah aplikasi paling aman dan bermanfaat untuk memotivasi tabungan umroh dan akhirnya berangkat tanpa rasa takut ditipu dan dijamin pasti keberangkatannya dengan pengalaman yang berkesan dan baik.</p>
                     </div>
                     <div class="row choose_item_inner">
                         <div class="col-md-6 col-xs-6">
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-umroh.png"></a>
+                                        <img src="img/icon-umroh.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Rekanan Travel</h4>
-                                        <h4>Umroh Terpilih</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Rekanan Travel</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Umroh Terpilih</h4>
                                     </div>
                                 </div>
                             </div>
@@ -198,11 +202,11 @@
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-tabungan.png"></a>
+                                        <img src="img/icon-tabungan.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Akun Waqara</h4>
-                                        <h4>Tabungan Umroh</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Akun Waqara</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Tabungan Umroh</h4>
                                     </div>
                                 </div>
                             </div>
@@ -211,11 +215,11 @@
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-pembiayaan.png"></a>
+                                        <img src="img/icon-pembiayaan.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Pilihan</h4>
-                                        <h4>Pembiayaan</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Pilihan</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Pembiayaan</h4>
                                     </div>
                                 </div>
                             </div>
@@ -224,11 +228,11 @@
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-berita.png"></a>
+                                        <img src="img/icon-berita.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Berita Terkini</h4>
-                                        <h4>Umroh dan Syariah</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Berita Terkini</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Umroh dan Syariah</h4>
                                     </div>
                                 </div>
                             </div>
@@ -237,11 +241,11 @@
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-garansi-uang.png"></a>
+                                        <img src="img/icon-garansi-uang.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Garansi Uang</h4>
-                                        <h4>Kembali</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Garansi Uang</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Kembali</h4>
                                     </div>
                                 </div>
                             </div>
@@ -250,11 +254,11 @@
                             <div class="choose_item">
                                 <div class="media">
                                     <div class="media-left">
-                                        <a href="#fitur" style="cursor: auto;"><img style="padding-top: 15px;" src="img/icon-halal.png"></a>
+                                        <img src="img/icon-halal.png">
                                     </div>
                                     <div class="media-body">
-                                        <h4>Semua Produk</h4>
-                                        <h4>Syariah</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Semua Produk</h4>
+                                        <h4 style="font-size: 18px; font-weight: 600; color: #5d5d5d;">Syariah</h4>
                                     </div>
                                 </div>
                             </div>
@@ -268,20 +272,20 @@
         <!--================Team Members Area =================-->
         <section class="team_members_area" id="pendiri">
             <div class="container">
-                <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400;">Pendiri Kami</h2>
+                <div class="main_title" style="padding-bottom: 20px;">
+                    <h2 style="line-height: 45px; text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400;">Pendiri Kami</h2>
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-6 col-xs-6">
                         <div class="satisfaction_item">
                             <img style="width: 250px;" src="img/Pak-Dino.png"><br>
-                            <a href="#"><h4>DINO PATTI DJALAL</h4></a>
+                            <a target="_blank" href="https://www.linkedin.com/in/dino-patti-djalal-7476499"><h4>DINO PATTI DJALAL</h4></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-xs-6">
                         <div class="satisfaction_item">
                             <img style="width: 250px;" src="img/Pak-pri.png"><br>
-                            <a href="#"><h4>PRI SULISTO</h4></a>
+                            <a target="_blank" href="https://www.linkedin.com/in/pri-sulisto-7785969"><h4>PRI SULISTO</h4></a>
                         </div>
                     </div>
                 </div>
@@ -293,40 +297,40 @@
         <section style="background-color: #E7F8EE;" class="app_screen_area" id="screenshot">
             <div class="container">
                 <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400; line-height: 47px;">Download & Install Aplikasi Waqara</h2>
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Download & Install Aplikasi Waqara</h2>
                 </div>
                 <div class="app_screen_inner">
                     <div class="app_screen_slider owl-carousel">
                         <div class="item"><img src="img/screenshot/screenshot-1.jpg" alt=""></div>
                         <div class="item"><img src="img/screenshot/screenshot-2.jpg" alt=""></div>
-                        <div class="item"><img src="img/screenshot/screenshot-3.jpg" alt=""></div>
+                        <div class="item"><img src="img/screenshot/screenshot-30.png" alt=""></div>
                         <div class="item"><img src="img/screenshot/screenshot-1.jpg" alt=""></div>
                         <div class="item"><img src="img/screenshot/screenshot-2.jpg" alt=""></div>
-                        <div class="item"><img src="img/screenshot/screenshot-3.jpg" alt=""></div>
+                        <div class="item"><img src="img/screenshot/screenshot-30.png" alt=""></div>
                         <div class="item"><img src="img/screenshot/screenshot-1.jpg" alt=""></div>
                         <div class="item"><img src="img/screenshot/screenshot-2.jpg" alt=""></div>
-                        <div class="item"><img src="img/screenshot/screenshot-3.jpg" alt=""></div>
+                        <div class="item"><img src="img/screenshot/screenshot-30.png" alt=""></div>
                     </div>
                 </div>
 
-                <div id="div_download_apps_desktop" style="text-align: center; margin-top: 191px;">
-                    <img style="height: 53px; margin-right: 20px;" src="img/app-store-button.png">
-                    <img style="height: 53px;" src="img/play-store-button.png">
+                <div id="div_download_apps_desktop" style="text-align: center; margin-top: 100px;">
+                    <img style="height: 40px; margin-right: 20px;" src="img/app-store-button.png">
+                    <img style="height: 40px;" src="img/play-store-button.png">
                 </div>
-                <div id="div_download_apps_mobile" style="text-align: center; margin-top: 180px;">
-                    <img style="height: 53px;" src="img/app-store-button.png">
+                <div id="div_download_apps_mobile" style="text-align: center; margin-top: 100px;">
+                    <img style="height: 40px;" src="img/app-store-button.png">
                     <br/><br/>
-                    <img style="height: 53px;" src="img/play-store-button.png">
+                    <img style="height: 40px;" src="img/play-store-button.png">
                 </div>
             </div>
         </section>
         <!--================End App Screen Area =================-->
 
         <!--================Team Members Area =================-->
-        <section class="team_members_area">
+        <section class="team_members_area" style="padding: 30px 0px">
             <div class="container">
-                <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400; line-height: 47px;">Rekanan Bank & Pembiayaan Kami</h2>
+                <div class="main_title" style="padding-bottom: 0px;">
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Rekanan Bank & Pembiayaan Kami</h2>
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-4 col-xs-6">
@@ -334,7 +338,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
-                            <img style="width: 250px;" src="img/rekanan-bank.png"><br>
+                            <img style="width: 200px;" src="img/rekanan-bank.png"><br>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-6">
@@ -346,10 +350,10 @@
         <!--================End Team Members Area =================-->
 
         <!--================Team Members Area =================-->
-        <section class="team_members_area">
+        <section class="team_members_area" style="padding: 30px 0px">
             <div class="container">
-                <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400; line-height: 47px;">Rekanan Asuransi Kami</h2>
+                <div class="main_title" style="padding-bottom: 0px;">
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Rekanan Asuransi Kami</h2>
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-4 col-xs-6">
@@ -357,7 +361,7 @@
                     </div>
                     <div class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
-                            <img style="width: 250px;" src="img/rekanan-asuransi.png"><br>
+                            <img style="width: 200px;" src="img/rekanan-asuransi.png"><br>
                         </div>
                     </div>
                     <div class="col-md-4 col-xs-6">
@@ -371,20 +375,20 @@
         <!--================Team Members Area =================-->
         <section class="team_members_area" id="jual">
             <div class="container">
-                <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400; line-height: 47px;">Rekanan Travel Kami</h2>
+                <div class="main_title" style="padding-bottom: 0px;">
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Rekanan Travel Kami</h2>
                 </div>
                 <div style="text-align: center;" class="row satisfaction_item_inner">
                     <div class="col-md-4 col-xs-6">
-                        <img style="width: 250px;" src="img/rekanan-travel-1.png"><br>
+                        <img style="width: 200px;" src="img/rekanan-travel-1.png"><br>
                     </div>
                     <div style="text-align: center;" class="col-md-4 col-xs-6">
                         <div class="satisfaction_item">
-                            <img style="width: 250px;" src="img/rekanan-travel-2.png"><br>
+                            <img style="width: 200px;" src="img/rekanan-travel-2.png"><br>
                         </div>
                     </div>
                     <div style="text-align: center;" class="col-md-4 col-xs-6">
-                        <img style="width: 250px;" src="img/rekanan-travel-3.png"><br>
+                        <img style="width: 200px;" src="img/rekanan-travel-3.png"><br>
                     </div>
                 </div>
                 <div class="row satisfaction_item_inner">
@@ -392,7 +396,7 @@
                         
                     </div>
                     <div class="col-md-4 col-xs-6">
-                        <center><a href="http://waqara.com/partner.php"><button style="height: 45px;
+                        <center><a href="http://waqara.com/partner.php"><button style="height: 48px;
     padding: 0px;
     margin-left: 25px;
     margin-top: 10px;
@@ -429,7 +433,7 @@
         <section class="choose_us_area" id="#" style="background: #E7F9EE; min-height: 600px;">
             <div class="container">
                 <div class="main_title">
-                    <h2 style="text-transform: none; color: #5A5F5B; font-size: 37px; font-weight: 400; line-height: 47px;">Telah Diliput di Media</h2>
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Telah Diliput di Media</h2>
                 </div>
                 <div style="text-align: center; margin-bottom: 30px;" class="row satisfaction_item_inner">
                     <div class="col-md-12 col-xs-12">
@@ -442,7 +446,7 @@
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-12 col-xs-12" style="text-align: center; margin-top: 40px;">
-                        <center><p style="margin-bottom: 30px; text-align: center; max-width: 900px; color: #595F5A; font-size: 19px; line-height: 28px;">Daftar sekarang untuk mencoba aplikasi kami.</p></center>
+                        <center><p style="margin-bottom: 30px; text-align: center; max-width: 900px; color: #595F5A; font-size: 18px; line-height: 28px;">Daftar sekarang untuk mencoba aplikasi kami.</p></center>
                         <center>
                         <form action="insertEmail.php" method="post">
                             <div class="input-group" style="max-width: 525px;
@@ -454,7 +458,7 @@
                                                             height: 62px;">
                                 <input placeholder="Alamat Email Anda" required="required" name="email" style="height: 50px;
     color: white;
-    padding: 0px 120px 0px 25px;
+    padding: 0px 0px 0px 25px;
     border-radius: 31px;
     border: 1px solid #e0e2e6;
     border-right: 0px;
@@ -481,8 +485,8 @@
     border-radius: 0px;
     border: none;
     background: #27BC78;
-    position: relative;
-    width: 172px;
+    position: absolute;
+    width: 158px;
     text-align: center;
     border-radius: 31px;
     z-index: 3;
