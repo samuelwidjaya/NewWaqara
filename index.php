@@ -122,8 +122,9 @@
         <section class="satisfaction_area" id="tentang">
             <div class="container">
                 <div class="main_title">
-                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Mengapa Memilih Waqara</h2>
-                    <p style="max-width: 800px; color: #595F5A; font-size: 16px; line-height: 28px;">Travel Providers Partners Waqara adalah hasil kurasi Tim Waqara dengan Bank Partners kami dimana travel provider di haruskan untuk melewati proses kurasi yang ketat dan menaati syarat dan ketentuan dari Waqara. Waqara juga mempunyai Pembiayaan Partners dimana umah bisa mengajukan pemohonan untuk pembiayaan perjalanan mereka</p>
+                    <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Tentang Waqara</h2>
+                    <p style="max-width: 800px; color: #595F5A; font-size: 16px; line-height: 28px;">Misi Waqara adalah untuk membuat umroh menjadi mungkin bagi semua orang.</p>
+                    <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Untuk individu yang ingin bepergian umroh setidaknya sekali dalam seumur hidup mereka, Waqara adalah aplikasi paling aman dan bermanfaat untuk memotivasi tabungan umroh dan akhirnya berangkat tanpa rasa takut ditipu dan dijamin pasti keberangkatannya dengan pengalaman yang berkesan dan baik.</p>
                 </div>
                 <div class="row satisfaction_item_inner">
                     <div class="col-md-4 col-xs-6">
@@ -173,16 +174,14 @@
             <div class="col-md-6">
                 <div class="right_choose_image" style="padding-top: 0;">
                     <div class="left_title">
-                        <h2 style="line-height: 45px; text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400;">Mengapa Memilih Kami</h2>
+                        <h2 style="line-height: 45px; text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400;">Mengapa Memilih Waqara</h2>
                         <hr style="width: 70px;
     float: left;
     border: none;
     height: 2px;
     color: #35C47A;
     background-color: #35C47A;"><br /><br />
-                        <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Misi Waqara adalah untuk membuat umroh menjadi mungkin bagi semua orang.</p>
-
-                        <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Untuk individu yang ingin bepergian umroh setidaknya sekali dalam seumur hidup mereka, Waqara adalah aplikasi paling aman dan bermanfaat untuk memotivasi tabungan umroh dan akhirnya berangkat tanpa rasa takut ditipu dan dijamin pasti keberangkatannya dengan pengalaman yang berkesan dan baik.</p>
+                        <p style="color: #595F5A; font-size: 16px; line-height: 28px;">Travel Providers Partners Waqara adalah hasil kurasi Tim Waqara dengan Bank Partners kami dimana travel provider di haruskan untuk melewati proses kurasi yang ketat dan menaati syarat dan ketentuan dari Waqara. Waqara juga mempunyai Pembiayaan Partners dimana umah bisa mengajukan pemohonan untuk pembiayaan perjalanan mereka. </p>
                     </div>
                     <div class="row choose_item_inner">
                         <div class="col-md-6 col-xs-6">
@@ -435,13 +434,19 @@
                 <div class="main_title">
                     <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Telah Diliput di Media</h2>
                 </div>
-                <div style="text-align: center; margin-bottom: 30px;" class="row satisfaction_item_inner">
+                <div style="text-align: center; margin-bottom: 30px; margin-left: 20px;" class="row satisfaction_item_inner">
                     <div class="col-md-12 col-xs-12">
                         <a target="_blank" href="http://m.en.industry.co.id/read/6783/bni-syariah-synergizes-with-indonesian-waqara-karya"><img style="width: 170px; margin-right: 40px;" src="img/media-1.png"></a>
-                        <a target="_blank" href="http://investor.id/investor/investor/investor/509613-bni-syariah-perluas-kerja-sama-digital.html"><img style="width: 170px; margin-right: 40px;" src="img/media-2.png"></a>
-                        <a target="_blank" href="http://id.beritasatu.com/home/bni-syariah-perluas-kerja-sama-digital/180143"><img style="width: 170px; margin-right: 40px;" src="img/media-3.png"></a>
-                        <a target="_blank" href="http://fokusacehnews.com/?p=4113"><img style="width: 170px; margin-right: 40px;" src="img/media-4.png"></a>
-                        <a target="_blank" href="http://keuangansyariah.mysharing.co/bni-syariah-kerjasama-digital-dengan-pt-waqara-karya-indonesia/"><img style="width: 170px; margin-right: 40px;" src="img/media-5.png"></a>
+
+                        <a target="_blank" href="http://investor.id/investor/investor/investor/509613-bni-syariah-perluas-kerja-sama-digital.html"><img class="img_media_desktop" style="width: 170px; margin-right: 40px;" src="img/media-2.png"></a>
+                        <a target="_blank" href="http://id.beritasatu.com/home/bni-syariah-perluas-kerja-sama-digital/180143"><img class="img_media_desktop" style="width: 170px; margin-right: 40px;" src="img/media-3.png"></a>
+                        <a target="_blank" href="http://fokusacehnews.com/?p=4113"><img class="img_media_desktop" style="width: 170px; margin-right: 40px;" src="img/media-4.png"></a>
+                        <a target="_blank" href="http://keuangansyariah.mysharing.co/bni-syariah-kerjasama-digital-dengan-pt-waqara-karya-indonesia/"><img class="img_media_desktop" style="width: 170px; margin-right: 40px;" src="img/media-5.png"></a>
+
+                        <a target="_blank" href="http://investor.id/investor/investor/investor/509613-bni-syariah-perluas-kerja-sama-digital.html"><center><img class="img_media_mobile" style="width: 170px; margin-right: 40px; margin-top: 20px;" src="img/media-2.png"></center></a>
+                        <a target="_blank" href="http://id.beritasatu.com/home/bni-syariah-perluas-kerja-sama-digital/180143"><center><img class="img_media_mobile" style="width: 170px; margin-right: 40px; margin-top: 20px;" src="img/media-3.png"></center></a>
+                        <a target="_blank" href="http://fokusacehnews.com/?p=4113"><center><img class="img_media_mobile" style="width: 170px; margin-right: 40px; margin-top: 20px;" src="img/media-4.png"></center></a>
+                        <a target="_blank" href="http://keuangansyariah.mysharing.co/bni-syariah-kerjasama-digital-dengan-pt-waqara-karya-indonesia/"><center><img class="img_media_mobile" style="width: 170px; margin-right: 40px; margin-top: 20px;" src="img/media-5.png"></center></a>
                     </div>
                 </div>
                 <div class="row satisfaction_item_inner">
@@ -449,10 +454,56 @@
                         <center><p style="margin-bottom: 30px; text-align: center; max-width: 900px; color: #595F5A; font-size: 18px; line-height: 28px;">Daftar sekarang untuk mencoba aplikasi kami.</p></center>
                         <center>
                         <form action="insertEmail.php" method="post">
-                            <div class="input-group" style="max-width: 525px;
+                            <div class="input-group" id="div_input_email_mobile" style="max-width: 525px;
+                                                            margin: auto;
+                                                            margin-left: 0%;
+                                                            position: relative;
+                                                            width: 100%;
+                                                            height: 62px;">
+                                <input placeholder="Alamat Email Anda" required="required" name="email" style="height: 50px;
+    color: white;
+    padding: 0px 0px 0px 25px;
+    border-radius: 31px;
+    border: 1px solid #e0e2e6;
+    border-right: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: none;
+    background: transparent;
+    width: 75%;
+    display: block;" type="email" class="form-control" >
+                                <span style="display: block;
+    white-space: normal;
+    position: absolute;
+    right: 70px;
+    width: 172px;
+    border-radius: 31px;
+    top: 0px;
+    -webkit-box-shadow: 0px 4px 12.35px 0.65px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 4px 12.35px 0.65px rgba(0, 0, 0, 0.12);" class="input-group-btn">
+                                    <button style="height: 50px;
+    padding: 0px;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border-radius: 0px;
+    border: none;
+    background: #27BC78;
+    position: absolute;
+    width: 158px;
+    text-align: center;
+    border-radius: 31px;
+    z-index: 3;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: .48px;
+    font-size: 14px;
+    font-weight: 500;" class="btn btn-default" type="submit">Kirim</button>
+                                </span>
+                            </div>
+                            <div class="input-group" id="div_input_email_desktop" style="max-width: 525px;
                                                             margin: auto;
                                                             margin-left: 30%;
-                                                            display: block;
                                                             position: relative;
                                                             width: 100%;
                                                             height: 62px;">
