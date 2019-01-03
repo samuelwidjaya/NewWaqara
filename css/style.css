@@ -3442,6 +3442,14 @@ iframe {
   height: 40px;
 }
 
+#div_input_email_desktop {
+  display: block;
+}
+
+#div_input_email_mobile {
+  display: none;
+}
+
 #div_socmed_mobile {
   display: none;
 } 
@@ -3456,6 +3464,14 @@ iframe {
 
 .install_mockup_img_mobile {
   display: none;
+}
+
+.img_media_mobile {
+  display: none;
+}
+
+.img_media_desktop {
+  display: inline;
 }
 
 @media only screen and (max-width: 600px) {
@@ -3476,6 +3492,22 @@ iframe {
       /*padding-bottom: 85px;*/
       margin-bottom: -307px;
       text-align: center;
+    }
+
+    .img_media_mobile {
+      display: block;
+    }
+
+    .img_media_desktop {
+      display: none;
+    }
+
+    #div_input_email_desktop {
+      display: none;
+    }
+
+    #div_input_email_mobile {
+      display: block;
     }
 
     #div_download_apps_desktop {
