@@ -429,7 +429,7 @@
         
         
         <!--================Choose Us Area =================-->
-        <section class="choose_us_area" id="#" style="background: #E7F9EE; min-height: 600px;">
+        <section class="choose_us_area" id="#" style="background: #E7F9EE; min-height: 390px;">
             <div class="container">
                 <div class="main_title">
                     <h2 style="text-transform: none; color: #5d5d5d; font-size: 30px; font-weight: 400; line-height: 45px;">Telah Diliput di Media</h2>
@@ -450,7 +450,8 @@
                     </div>
                 </div>
                 <div class="row satisfaction_item_inner">
-                    <div class="col-md-12 col-xs-12" style="text-align: center; margin-top: 40px;">
+                    <div class="col-md-12 col-xs-12" style="text-align: center; margin-top: 40px; border-bottom: 1px solid #e0e2e6;
+    padding-bottom: 100px;">
                         <center><p style="margin-bottom: 30px; text-align: center; max-width: 900px; color: #595F5A; font-size: 18px; line-height: 28px;">Daftar sekarang untuk mencoba aplikasi kami.</p></center>
                         <center>
                         <form action="insertEmail.php" method="post">
@@ -562,7 +563,65 @@
         </section>
         <!--================End Choose Us Area =================-->
         
-        
+        <!--================Footer Area =================-->
+        <footer class="footer_area" id="contact" style="background: #E7F9EE;">
+            <div class="footer_widget_area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 col-xs-6">
+                            <aside class="f_widget home_widget">
+                                <div class="f_title">
+                                    <img src="img/logo-hijau.png" alt="">
+                                </div>
+                                <div>
+                                    <span style="line-height: 33px;">
+                                        Mayapada Tower 2 level 19, Jl. Jend Sudirman No. Kav.28, RT 4/RW 2, Kuningan, Karet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta
+                                    </span>
+                                </div>
+                            
+                            </aside>
+                        </div>
+                        <div class="col-md-4 col-xs-6">
+                            <aside class="f_widget home_widget">
+                                <div class="f_title">
+                                    <br>
+                                </div>
+                                <div style="line-height: 33px; margin-left: 53px;">
+                                    <p><b>Hubungi Kami</b></p>
+                                    <p>Email : hi@waqara.com</p>
+                                    <p>WA : 0822 9888 3839</p>
+                                </div>
+                            </aside>
+                        </div>
+                        <div class="col-md-4 col-xs-12">
+                            <aside class="f_widget contact_widget">
+                                <div class="f_title">
+                                </div>
+                            </aside>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_copy_right" style="background: #222723;">
+                <div class="container">
+                    <div class="pull-left">
+                        <p class="copyright" style="color: white; font-size: 11px;">
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> PT Waqara Karya Indonesia. All rights reserved
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                    <div class="pull-right">
+                        <ul>
+                            <li><a style="font-size: 11px; color: white;" href="#">Syarat & Ketentuan</a></li>
+                            <li><a style="font-size: 11px; color: white;" href="#">Kebijakan Privasi</a></li>
+                            <li><a style="font-size: 11px; color: white;" href="#">Pertanyaan Umum</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--================End Footer Area =================-->
         
         
         
